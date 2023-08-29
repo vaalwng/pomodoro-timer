@@ -5,5 +5,5 @@ pomodoro timer using react
 node=16.15.0
 
 ## cmd
-- npm install
-- npm start
+* npm install
+* npm start
